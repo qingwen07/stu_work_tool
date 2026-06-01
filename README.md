@@ -2,4 +2,4 @@
 
 ## 演示视频
 
-https://github.com/qingwen07/stu_work_tool/blob/main/demo.mp4
+![demo](demo.gif)
