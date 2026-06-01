@@ -1,3 +1,4 @@
 这是一个开源的小学生作业完成后的激励工具，主要用来让学生在做完作业后可以得到及时的正向反馈，刺激他自觉完成作业
 
-[观看演示视频](./demo.mp4)
+演示视频：
+https://github.com/qingwen07/stu_work_tool/blob/main/demo.mp4
